@@ -1,0 +1,6 @@
+@minimalAPI_HostAddress = http://localhost:5035
+
+GET {{minimalAPI_HostAddress}}/blob/documents
+Accept: application/json
+
+###
